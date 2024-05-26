@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Oluwashola Iji - [Github](https://github.com/Sholycul) / [Twitter](https://x.com/Sholy_Cul)  
-Linda Uchenna  - [Github](https://github.com/uc4151) / [Twitter]()
+Linda Uchenna  - [Github](https://github.com/uc4151) / [Twitter](https://x.com/lindaly_gemma)
 
 Second part of Airbnb: Joann Vuong
 ## License
